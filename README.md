@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pradeep Loganathan.
 
 - 😄 Pronouns: He/Him
-- - 📫 How to reach me: Twitter - @pradeepl, Website - https://pradeeploganathan.com
+- 📫 How to reach me: Twitter - @pradeepl, Website - https://pradeeploganathan.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Cluster API, Kubernetes on the edge.
 

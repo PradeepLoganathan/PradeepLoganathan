@@ -1,8 +1,9 @@
 name: Update readme with blog posts
 on:
   schedule:
-    - cron: '00 00,12 * * *' # Runs every day, at midnight and noon
-  workflow_dispatch
+    # Runs every day at 00:00 UTC everyday
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   pull_blog_rss:

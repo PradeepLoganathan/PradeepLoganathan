@@ -6,23 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  pull_blog_rss:
-    name: Update with latest blog posts
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in pradeepl.com posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_url: https://pradeepl.com/index.xml
-          count: 6 # default 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'Pradeepl'
-            git config --global user.email 'githubactions@actions.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README"    
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: https://pradeepl.com/index.xml
+          commit_message: "Updated README with the latest blog posts"
+          date_format: "mmm d, yyyy"
+          custom_tags: "postImage/featured_image/"
+          disable_html_encoding: true
+          item_exec: |
+            post.description = post.description.replace(/<\/?[^>]+(>|$)/g, "").slice(0,100) 
+          template: '<table style="width:100%"><tr><td style="width:150px"><a href="$url"><img width="280px" src="$postImage"></a></td><td><a href="$url">$title</a> | $date <br> $description...</td></tr></table>$newline'

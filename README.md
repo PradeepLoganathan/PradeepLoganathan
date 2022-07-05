@@ -5,6 +5,9 @@
 - 🌱 &nbsp;I’m currently learning WASM, Cluster API, Kubernetes on the edge.
 - 📫 &nbsp;How to reach me: [@pradeepl](https://twitter.com/pradeepl)
 - 👨‍💻 &nbsp;Read more about my projects at [pradeepl.com](https://pradeepl.com)
+- 🧑🏾‍🤝‍🧑🏽 &nbsp; I run the Brisbane - Cloud Native meetup group. Subscribe to the group [here](https://www.meetup.com/cloudnative-bne/).
+- 🧑🏾‍🤝‍🧑🏽 &nbsp; I run the Sunshine Coast .Net User Group. Subscribe to the group [here](https://www.meetup.com/scozure/)
+
 
 
 

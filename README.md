@@ -4,6 +4,7 @@
 - 🔭 &nbsp;I’m currently working on something really cool.
 - 🌱 &nbsp;I’m currently learning WASM, Cluster API, Kubernetes on the edge.
 - 📫 &nbsp;How to reach me: [@pradeepl](https://twitter.com/pradeepl)
+- 👨‍💻 &nbsp;Read more about my projects at [pradeepl.com](https://pradeepl.com)
 
 
 

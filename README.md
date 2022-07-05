@@ -9,7 +9,11 @@
 
 
 📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table style="width:100%"><tr><td style="width:150px"><a href="https://pradeepl.com/blog/webassembly-from-browser-to-cloud/"><img width="280px" src=""></a></td><td><a href="https://pradeepl.com/blog/webassembly-from-browser-to-cloud/">WebAssembly - From Browser to Cloud</a> | Jul 4, 2022 <br> WebAssembly(WASM) is a low-level assembly-like language that is designed for efficient execution and...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://pradeepl.com/blog/azure/azureeventgrid-createcustomevents/"><img width="280px" src=""></a></td><td><a href="https://pradeepl.com/blog/azure/azureeventgrid-createcustomevents/">Azure Event Grid - Create Custom Events</a> | Jun 24, 2022 <br> Azure Event Grid is an eventing back plane that enables event-driven and reactive programming. In th...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://pradeepl.com/blog/azure/azureeventgrid-createtopic/"><img width="280px" src=""></a></td><td><a href="https://pradeepl.com/blog/azure/azureeventgrid-createtopic/">Azure Event Grid - Creating a Topic</a> | Jun 23, 2022 <br> Azure Event Grid is an eventing back plane that enables event-driven and reactive programming. In th...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://pradeepl.com/blog/azure/azureeventgrid-introduction/"><img width="280px" src=""></a></td><td><a href="https://pradeepl.com/blog/azure/azureeventgrid-introduction/">Introduction to Azure Event Grid</a> | Jun 22, 2022 <br> Azure Event Grid is an eventing back plane that enables event-driven and reactive programming. In th...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://pradeepl.com/blog/kubernetes/knative-fundamental-concepts/"><img width="280px" src=""></a></td><td><a href="https://pradeepl.com/blog/kubernetes/knative-fundamental-concepts/">Knative - Fundamental concepts</a> | May 20, 2022 <br> Knative Fundamentals...</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 

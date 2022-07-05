@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pradeepl)](https://github.com/pradeeploganathan)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pradeepl)](https://twitter.com/pradeepl)
 
 
 ## 📌 Connect with me

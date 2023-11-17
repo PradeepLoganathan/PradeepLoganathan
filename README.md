@@ -8,7 +8,13 @@
 - 🧑🏾‍🤝‍🧑🏽 &nbsp; I run the Brisbane - Cloud Native meetup group. Subscribe to the group [here](https://www.meetup.com/cloudnative-bne/).
 - 🧑🏾‍🤝‍🧑🏽 &nbsp; I run the Sunshine Coast .Net User Group. Subscribe to the group [here](https://www.meetup.com/scozure/)
 
+[![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeeploganathan)](https://github.com/anuraghazra/github-readme-stats)
 
+
+📈 **My GitHub Stats:**
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradeeploganathan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
 
 
 📕 &nbsp;**Latest Blog Posts**

@@ -14,7 +14,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradeeploganathan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madelGeek&" alt="madelgeek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeploganathan&" alt="pradeeploganathan" /></p>
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START --><table style="width:100%"><tr><td style="width:150px"><a href="https://pradeepl.com/blog/kpack/"><img width="280px" src=""></a></td><td><a href="https://pradeepl.com/blog/kpack/">Kpack</a> | Nov 16, 2023 <br> Kpack is a Kubernetes-native build service that utilizes Cloud Native Buildpacks to transform applic...</td></tr></table>

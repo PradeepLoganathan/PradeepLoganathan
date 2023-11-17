@@ -8,6 +8,11 @@
 - 🧑🏾‍🤝‍🧑🏽 &nbsp; I run the Brisbane - Cloud Native meetup group. Subscribe to the group [here](https://www.meetup.com/cloudnative-bne/).
 - 🧑🏾‍🤝‍🧑🏽 &nbsp; I run the Sunshine Coast .Net User Group. Subscribe to the group [here](https://www.meetup.com/scozure/)
 
+☎️ **Connect with me:**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pradeeploganathan)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pradeepl)
+
 
 📈 **My GitHub Stats:**
 <p>
@@ -26,9 +31,3 @@
 
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pradeepl)](https://twitter.com/pradeepl)
-
-
-## 📌 Connect with me
-
-<a href="https://www.linkedin.com/in/pradeeploganathan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://twitter.com/pradeepl"><img src="https://img.shields.io/twitter/follow/pradeepl?style=social"></img></a>
